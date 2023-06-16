@@ -1,10 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Mohamed+Nabil!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+</p>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
-<h4 align="center">
-  Welcome to Mohamed Nabil's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h4>
 
 
 <p align="center">
