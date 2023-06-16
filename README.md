@@ -3,7 +3,7 @@
 </p>
 
 ## 🚀 About Me
-<h4>I am a fresh computer science graduate seeking a position in software engineering where I can utilize my skills to further work toward personal and professional development and contribute to the organization's prosperity.</h4>
+I am a fresh computer science graduate seeking a position in software engineering where I can utilize my skills to further work toward personal and professional development and contribute to the organization's prosperity.
 
 ## Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamedd.nabil3@gmail.com)](mailto:mohamedd.nabil3@gmail.com)
