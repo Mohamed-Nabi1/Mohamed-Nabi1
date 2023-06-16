@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Mohamed+Nabil!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
  ### 🔗About Me
 <h44>🚀 About Me</h4>
 <h5>I am a fresh computer science graduate seeking a position in software engineering where I can utilize my skills to further work toward personal and professional development and contribute to the organization's prosperity.</h5>
